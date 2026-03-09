@@ -57,7 +57,7 @@
 > A **NumPy-inspired numerical computing library** — but written entirely in Java.
 > Bringing the power of array operations, linear algebra, and vectorized computing to the JVM ecosystem.
 
-🔗 [View on GitHub](https://github.com/Ibrahimibrahimi)
+🔗 [View on GitHub]([https://github.com/Ibrahimibrahimi](https://github.com/Ibrahimibrahimi/NumVex))
 
 ---
 <div align="center">
