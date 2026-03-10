@@ -15,8 +15,7 @@
 - 🔭 Currently building **[NumVex](https://github.com/Ibrahimibrahimi)** — a NumPy-inspired numerical computing library in Java
 - 🧠 Deep into **Data Science, Machine Learning**, and backend development
 - ☕ Heavy Java/JavaFX user — desktop apps are my comfort zone
-- 🐍 Flask enthusiast (8/10 level, don't test me 😄)
-- 🌱 Always exploring new tools — currently leveling up in **Go** and **TypeScript**
+- 🌱 Always exploring new tools — currently leveling up in **Go** and **Jav**
 - ⚡ Fun fact: I like to code in java(specially JavaFx) rather than python
 
 ---
