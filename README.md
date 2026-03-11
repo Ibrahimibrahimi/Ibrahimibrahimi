@@ -12,7 +12,9 @@
 
 ## About Me
 
-- 🔭 Currently building **[NumVex](https://github.com/Ibrahimibrahimi)** — a NumPy-inspired numerical computing library in Java
+- 🔭 Currently building :
+1.   **[NumVex](https://github.com/Ibrahimibrahimi)** — a NumPy-inspired numerical computing library in Java
+2.   **[JSV](https://github.com/Ibrahimibrahimi/JSV)** - a Pandas inspired csv gesture library in Java
 - 🧠 Deep into **Data Science, Machine Learning**, and backend development
 - ☕ Heavy Java/JavaFX user — desktop apps are my comfort zone
 - 🌱 Always exploring new tools — currently leveling up in **Go** and **Java**
