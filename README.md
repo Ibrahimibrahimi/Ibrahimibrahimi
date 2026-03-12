@@ -61,6 +61,9 @@
 
 🔗 [View on GitHub](https://github.com/Ibrahimibrahimi/NumVex)
 
+### JSV
+> A **Pandas-Inspired library for operating csv files** — But writted entirely in Java.
+> Remaking every sigfle operation u can do in pandas using java
 ---
 <div align="center">
 
