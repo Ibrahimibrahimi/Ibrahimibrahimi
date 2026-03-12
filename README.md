@@ -15,6 +15,7 @@
 - 🔭 Currently building :
 1.   **[NumVex](https://github.com/Ibrahimibrahimi)** — a NumPy-inspired numerical computing library in Java
 2.   **[JSV](https://github.com/Ibrahimibrahimi/JSV)** - a Pandas inspired csv gesture library in Java
+3.   **[JSD](https://github.com/Ibrahimibrahimi/JDS)** - a java Data Structure repository to implement most popular data structure types
 - 🧠 Deep into **Data Science, Machine Learning**, and backend development
 - ☕ Heavy Java/JavaFX user — desktop apps are my comfort zone
 - 🌱 Always exploring new tools — currently leveling up in **Go** and **Java**
